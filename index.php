@@ -1,3 +1,3 @@
 <?php
-echo "welcom to ICPHP website";
+echo "welcome to my ICPHP website";
 ?>
